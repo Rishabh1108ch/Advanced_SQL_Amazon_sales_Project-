@@ -120,7 +120,7 @@ Help Amazon stakeholders (sellers, logistics partners, internal teams) make data
 
 ---
 
-## 🧭 Business Problems / Tasks (22)
+## 🧭 Business Problems / Tasks (20)
 
 1. **Fix schema:** change `Orders.order_id` from `MONEY` → `INT`.  
 2. **Top 10 products by total sales value.** (name, qty sold, total sales value)  
@@ -142,8 +142,7 @@ Help Amazon stakeholders (sellers, logistics partners, internal teams) make data
 18. **Top 5 customers by number of orders for each state** — include order count & total sales.  
 19. **Total revenue by shipping provider** — include number of orders handled & average delivery time.  
 20. **Top 10 products with largest revenue decline (2022 → 2023)** — include 2022 revenue, 2023 revenue, decline ratio (rounded).  
-21. **Inventory update function/procedure** — when product sold, decrement inventory quantity.  
-22. **Stored procedure for periodic inventory alerts / restock suggestions** (optional extension).
+
 
 ---
 
